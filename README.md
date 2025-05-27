@@ -106,6 +106,6 @@ The project uses `GenreResource` and `MovieResource` to clean up JSON responses.
 
 ## 🤝 Author
 
-**Your Name**  
+**Vitaliy Konovaluck**  
 Email: `vkonovaluck@gmail.com`  
 GitHub: [Vitaliy](https://github.com/vitkonovaluck/)
