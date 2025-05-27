@@ -13,8 +13,7 @@ class GenreApiController extends Controller
 
     public function index()
     {
-        dd(Genre::all());
-        GenreResource::collection(Genre::all());
+       return  GenreResource::collection(Genre::all());
     }
 
     public function movies($id)
